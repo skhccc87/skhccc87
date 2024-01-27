@@ -1,4 +1,9 @@
 ### Hi there 👋
+My name is Surya
+I have a lot of experiences in IT Service such as computers, laptops, printers, networking, etc
+Now i am learning to some coding again just like in the college
+Always great to learn new things and thinks
+Good luck !!!
 
 <!--
 **skhccc87/skhccc87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
